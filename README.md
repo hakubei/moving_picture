@@ -18,3 +18,6 @@
 
 # マーケット
 - 絵を描くのが好きな人、絵を描いてみたい人
+
+# 画面遷移図
+https://www.figma.com/file/afQcUPrYH4AgcqTtq1Ejaf/moving_picture?node-id=27%3A33
